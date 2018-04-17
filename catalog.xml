@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/quera/AppData/Roaming/NetBeans/8.2/config/WebServices/factorial/catalog/ws.docencia.ces.siani.es/a29/A2-WSFactorial/factorial.wsdl" uri="src/conf/xml-resources/web-service-references/factorial/wsdl/factorial.wsdl"/>
+    <system systemId="http://ws.docencia.ces.siani.es/a29/A2-WSFactorial/factorial?xsd=1" uri="src/conf/xml-resources/web-service-references/factorial/wsdl/ws.docencia.ces.siani.es/a29/A2-WSFactorial/factorial.xsd_1.xsd"/>
+</catalog>
